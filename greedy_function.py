@@ -10,6 +10,5 @@ def find_coins_greedy(amount):
 
     return result
 
-# Приклад запуску
 if __name__ == "__main__":
     print(find_coins_greedy(113))
